@@ -1,7 +1,8 @@
-package com.enfotrix.cgs_teacher_portal
+package com.enfotrix.cgs_teacher_portal.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.enfotrix.cgs_teacher_portal.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
