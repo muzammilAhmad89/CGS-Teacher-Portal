@@ -6,4 +6,10 @@
     </style>
 
     <style name="Theme.CGSTeacherPortal" parent="Base.Theme.CGSTeacherPortal" />
+    <style name="mySpinnerItemStyle" parent="@android:style/Widget.Holo.DropDownItem.Spinner">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/hint</item>
+        <item name="fontFamily">@font/montserrat_regular</item>
+    </style>
+
 </resources>
